@@ -1,5 +1,12 @@
 # Hazumi and Pregnation mods by nwishmaster
 
+-   [Mod list](#mod-list)
+    -   [Implantation Xtended](#implantation-xtended)
+    -   [Realistic Bathing](#realistic-bathing)
+    -   [Realistic Ejaculations](#realistic-ejaculations)
+-   [Installation](#installation)
+-   [See also](#see-also)
+
 ## Mod list
 
 ### Implantation Xtended
@@ -7,7 +14,7 @@
 Makes Hazumi be able to conceive babies during her all implantation period
 (first 7 weeks of pregnancy) instead of vanilla's one extra night.
 
-### Readlistic Bathing
+### Realistic Bathing
 
 Makes bathing in game not perfectly safe from preventing pregnancy.
 Hazumi will wash out most of the semen from her vagina but not all of it.
