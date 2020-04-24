@@ -23,3 +23,11 @@ Currently supported only manual sex scenes.
 1. Download latest [release](https://github.com/nwishmaster/HnP_mods/releases)
 2. Unpack files named `MOD_<interested_mod>` to `<game_folder>\PPLSS\www\js\mods`
 3. Enjoy
+
+## See also
+
+**Note that I do not guarantee that these mods won't damage your game save or device!**
+Here are some mods from other people. All rights belong to their authors.
+
+-   [All-in-One](https://pastebin.com/9v2w477L) mod list by Nameless
+-   [Extra Ejaculation](https://mega.nz/file/cfw1Haha#qckepz_TSY_ICOGCgldYkvbC-pBe-Wb0bqnNEKyUaxc) mod by Regisseur
