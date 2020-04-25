@@ -22,7 +22,7 @@ Quality of bathing system affects on vagina washing quality.
 
 ### Realistic Ejaculations
 
-Makes creampies be able to leak through vagina into urethra during sex.
+Makes creampies be able to leak through vagina into uterus during sex.
 Currently supported only manual sex scenes.
 
 ## Installation
