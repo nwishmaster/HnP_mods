@@ -17,7 +17,9 @@
             sperm_count = V[21] * randmm(75, 150) + randmm(1, 100);
 
             if (sperm_count >= 1) {
-                bun('From \x1bv[21]ml ejaculated to vagina, \n\x1bc[1]' + `${sperm_count}` + '\x1bc[0] sperm reach \x1bn[1]\'s uterus');
+                bun('From \x1bv[21]ml ejaculated to vagina, \n\x1bc[1]' 
+                    + `${sperm_count}` 
+                    + '\x1bc[0] sperm reach \x1bn[1]\'s uterus');
             }
 
             V[13] += sperm_count;
