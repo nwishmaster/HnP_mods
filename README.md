@@ -37,5 +37,5 @@ Currently supported only manual sex scenes.
 
 Here are some mods from other people. All rights belong to their authors.
 
--   [All-in-One](https://pastebin.com/9v2w477L) mod list by Nameless
+-   [All-in-One](https://web.archive.org/web/20200922024901/https://pastebin.com/9v2w477L) mod list by Nameless
 -   [Extra Ejaculation](https://mega.nz/file/cfw1Haha#qckepz_TSY_ICOGCgldYkvbC-pBe-Wb0bqnNEKyUaxc) mod by Regisseur
