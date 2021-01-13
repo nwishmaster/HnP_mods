@@ -1,5 +1,5 @@
 /*
-    @author: nwishmaster <nwishmaster@mailbox.org>
+    @author: nwishmaster <nw_shmaster@protonmail.com>
     @version: 0.9.2
     @description "Realistic Ejaculation MOD" adds creampies possibility to leak through vagina into uterus
  */

@@ -1,5 +1,5 @@
 /*
-    @author: nwishmaster <nwishmaster@mailbox.org>
+    @author: nwishmaster <nw_shmaster@protonmail.com>
     @version: 1.0.0
     @description "Realistic Bathing MOD" changes bathing in game making clearing Hazumi vagina more difficult
  */
